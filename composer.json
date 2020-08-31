@@ -346,6 +346,6 @@
             "Magento\\PhpStan\\": "dev/tests/static/framework/Magento/PhpStan/"
         }
     },
-    "version": "2.3.5-p2",
+    "version": "2.3.5.1-p2",
     "minimum-stability": "stable"
 }
